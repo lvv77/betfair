@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Betfair.py" />
+    <Compile Include="methods.py" />
     <Compile Include="run.py" />
     <Compile Include="Utility.py" />
   </ItemGroup>
