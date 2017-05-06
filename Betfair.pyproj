@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>97cb4795-f214-447b-8d6a-2d45f0fe3885</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Betfair.py</StartupFile>
+    <StartupFile>run.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
